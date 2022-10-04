@@ -1,1 +1,1 @@
-this is my new project covering html,css and javascript
+//this is my new project covering html,css and javascript
